@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wilco-host/static/css/main.834821d9.chunk.css",
-    "main.js": "/wilco-host/static/js/main.e82c3dcc.chunk.js",
-    "main.js.map": "/wilco-host/static/js/main.e82c3dcc.chunk.js.map",
-    "runtime~main.js": "/wilco-host/static/js/runtime~main.c30d85de.js",
-    "runtime~main.js.map": "/wilco-host/static/js/runtime~main.c30d85de.js.map",
-    "static/css/2.a317ec87.chunk.css": "/wilco-host/static/css/2.a317ec87.chunk.css",
-    "static/js/2.5393a9cb.chunk.js": "/wilco-host/static/js/2.5393a9cb.chunk.js",
-    "static/js/2.5393a9cb.chunk.js.map": "/wilco-host/static/js/2.5393a9cb.chunk.js.map",
-    "index.html": "/wilco-host/index.html",
-    "precache-manifest.ea24fe9b82b465ec2c601815d3cb4430.js": "/wilco-host/precache-manifest.ea24fe9b82b465ec2c601815d3cb4430.js",
-    "service-worker.js": "/wilco-host/service-worker.js",
-    "static/css/2.a317ec87.chunk.css.map": "/wilco-host/static/css/2.a317ec87.chunk.css.map",
-    "static/css/main.834821d9.chunk.css.map": "/wilco-host/static/css/main.834821d9.chunk.css.map",
-    "static/media/App.scss": "/wilco-host/static/media/Brandon_thin.4be7a96e.otf"
+    "main.css": "./static/css/main.ceaf9554.chunk.css",
+    "main.js": "./static/js/main.2d5b8428.chunk.js",
+    "main.js.map": "./static/js/main.2d5b8428.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.a317ec87.chunk.css": "./static/css/2.a317ec87.chunk.css",
+    "static/js/2.da23fbde.chunk.js": "./static/js/2.da23fbde.chunk.js",
+    "static/js/2.da23fbde.chunk.js.map": "./static/js/2.da23fbde.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a0c0cfd74727384e2724dc10320c01bd.js": "./precache-manifest.a0c0cfd74727384e2724dc10320c01bd.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.a317ec87.chunk.css.map": "./static/css/2.a317ec87.chunk.css.map",
+    "static/css/main.ceaf9554.chunk.css.map": "./static/css/main.ceaf9554.chunk.css.map",
+    "static/media/App.scss": "./static/media/Brandon_thin.4be7a96e.otf"
   }
 }
