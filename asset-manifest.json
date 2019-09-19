@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.946274e5.chunk.css",
-    "main.js": "/static/js/main.01da3f59.chunk.js",
-    "main.js.map": "/static/js/main.01da3f59.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.a317ec87.chunk.css": "/static/css/2.a317ec87.chunk.css",
-    "static/js/2.f675b7a5.chunk.js": "/static/js/2.f675b7a5.chunk.js",
-    "static/js/2.f675b7a5.chunk.js.map": "/static/js/2.f675b7a5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2c893805298c87a20da946637f6bbcc8.js": "/precache-manifest.2c893805298c87a20da946637f6bbcc8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.a317ec87.chunk.css.map": "/static/css/2.a317ec87.chunk.css.map",
-    "static/css/main.946274e5.chunk.css.map": "/static/css/main.946274e5.chunk.css.map",
-    "static/media/App.scss": "/static/media/Brandon_thin.4be7a96e.otf"
+    "main.css": "./static/css/main.6a595e06.chunk.css",
+    "main.js": "./static/js/main.cd446e5a.chunk.js",
+    "main.js.map": "./static/js/main.cd446e5a.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.a317ec87.chunk.css": "./static/css/2.a317ec87.chunk.css",
+    "static/js/2.da23fbde.chunk.js": "./static/js/2.da23fbde.chunk.js",
+    "static/js/2.da23fbde.chunk.js.map": "./static/js/2.da23fbde.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.fef5059684ec7f5253c24e1213494334.js": "./precache-manifest.fef5059684ec7f5253c24e1213494334.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.a317ec87.chunk.css.map": "./static/css/2.a317ec87.chunk.css.map",
+    "static/css/main.6a595e06.chunk.css.map": "./static/css/main.6a595e06.chunk.css.map",
+    "static/media/App.scss": "./static/media/Brandon_thin.4be7a96e.otf"
   }
 }
