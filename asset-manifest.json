@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wilco-host/static/css/main.3447ac2f.chunk.css",
-    "main.js": "/wilco-host/static/js/main.7cc678b7.chunk.js",
-    "main.js.map": "/wilco-host/static/js/main.7cc678b7.chunk.js.map",
+    "main.css": "/wilco-host/static/css/main.70b47b53.chunk.css",
+    "main.js": "/wilco-host/static/js/main.2f6b15fe.chunk.js",
+    "main.js.map": "/wilco-host/static/js/main.2f6b15fe.chunk.js.map",
     "runtime~main.js": "/wilco-host/static/js/runtime~main.c30d85de.js",
     "runtime~main.js.map": "/wilco-host/static/js/runtime~main.c30d85de.js.map",
     "static/css/2.a317ec87.chunk.css": "/wilco-host/static/css/2.a317ec87.chunk.css",
-    "static/js/2.844860c2.chunk.js": "/wilco-host/static/js/2.844860c2.chunk.js",
-    "static/js/2.844860c2.chunk.js.map": "/wilco-host/static/js/2.844860c2.chunk.js.map",
+    "static/js/2.38e4cde3.chunk.js": "/wilco-host/static/js/2.38e4cde3.chunk.js",
+    "static/js/2.38e4cde3.chunk.js.map": "/wilco-host/static/js/2.38e4cde3.chunk.js.map",
     "index.html": "/wilco-host/index.html",
-    "precache-manifest.160f375e436c2804f35b84267216bbbd.js": "/wilco-host/precache-manifest.160f375e436c2804f35b84267216bbbd.js",
+    "precache-manifest.0b44929108da00d0d481acd686cde0bd.js": "/wilco-host/precache-manifest.0b44929108da00d0d481acd686cde0bd.js",
     "service-worker.js": "/wilco-host/service-worker.js",
     "static/css/2.a317ec87.chunk.css.map": "/wilco-host/static/css/2.a317ec87.chunk.css.map",
-    "static/css/main.3447ac2f.chunk.css.map": "/wilco-host/static/css/main.3447ac2f.chunk.css.map",
+    "static/css/main.70b47b53.chunk.css.map": "/wilco-host/static/css/main.70b47b53.chunk.css.map",
     "static/media/App.scss": "/wilco-host/static/media/Brandon_thin.4be7a96e.otf"
   }
 }
