@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wilco-host/precache-manifest.2a9d9579ac9d9810f7073de25b5acf04.js"
+  "/wilco-host/precache-manifest.e979e302ba973a973cbdaf26aee0d728.js"
 );
 
 self.addEventListener('message', (event) => {
